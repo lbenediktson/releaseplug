@@ -1,0 +1,492 @@
+{
+  "collections" : {
+    "-LCgzso8ScTpjBaEiVCx" : {
+      "brand" : "Wood Wood",
+      "date" : "2018-08-12",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://s-media-cache-ak0.pinimg.com/originals/2f/22/38/2f223863f8a6d11ce4b86f71c765b66b.jpg",
+      "price" : "100-370",
+      "siteTag" : "wood-wood-summer-collection-2018",
+      "stores" : {
+        "-LD6ywpMyGdg7XA8wBtt" : {
+          "affiliateLink" : "https://youtube.com",
+          "date" : "05:01",
+          "storeId" : "-LBeFDtGseHI3GqHAk_L"
+        },
+        "sgfdghdsgrgd" : {
+          "affiliateLink" : "https://facebook.com/releaseplug",
+          "clock" : "04.30",
+          "date" : "20:30",
+          "imgUrl" : "https://assets.systime.dk/static/internetbook-frontpage-images/9788761684646.jpg",
+          "name" : "Rezet",
+          "storeId" : "-LBeBcOKQFB_MBb9C0b2"
+        }
+      },
+      "title" : "Wood Wood Summer Collection 2018"
+    },
+    "-LFIK2zGJB1hT4ZCXZhj" : {
+      "brand" : "Wood Wood ",
+      "date" : "2018-02-24",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://www.woodwood.com/shared/e/ef94dacb78178b1e41258cfb700ff15a_h490w980_width.jpg",
+      "price" : "40 - 140",
+      "siteTag" : "wood-wood-ss18-\"mondano\"",
+      "title" : "Wood Wood SS18 \"MONDANO\""
+    },
+    "-LFIKwbuC6Xw8oPkBkzY" : {
+      "brand" : "Patta ",
+      "date" : "2018-02-23",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://www.patta.nl/media/wysiwyg/1_Web.jpg",
+      "price" : "40 - 200",
+      "siteTag" : "patta-s-s18",
+      "title" : "Patta S/S18"
+    },
+    "-LFILn-_QNl_iB2COqrL" : {
+      "brand" : "Soulland",
+      "date" : "2017-12-15",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://cdn.shopify.com/s/files/1/0913/0530/files/Soulland-top-1.jpg?v=1518776587",
+      "price" : "10 - 670",
+      "siteTag" : "soulland-s-s18",
+      "title" : "Soulland S/S18"
+    }
+  },
+  "shoes" : {
+    "-LCcEUypyLYt6jhVHlT1" : {
+      "brand" : "Nike",
+      "date" : "2018-05-19",
+      "description" : "Cras venenatis lobortis dolor, ac porttitor magna sodales vel. Vivamus gravida nibh ac semper ullamcorper. Nulla vulputate neque sit amet dui molestie laoreet. Sed eget urna dolor. Etiam eget diam mollis, imperdiet purus sed, faucibus urna. Vivamus consectetur id risus ut dapibus. Mauris ultrices mauris vitae convallis mollis. Praesent in nisi ut libero blandit suscipit sit amet et nunc. \n\nNunc quis turpis eu lacus ornare ultricies a a nulla. Nullam eu arcu vel enim varius aliquet. Etiam vitae ultricies mi. Vestibulum gravida vulputate fringilla. Cras blandit, erat ac ultrices gravida, nunc felis viverra nibh, quis convallis dui ipsum in magna.",
+      "imgUrl" : "https://stockx.imgix.net/Nike-Air-Max-97-BW-Skepta-1.jpg?fit=fill&bg=FFFFFF&w=1400&h=1000&auto=format,compress&trim=color&q=90",
+      "price" : "190",
+      "productCode" : "AO2113-100",
+      "resellEstimate" : "400",
+      "siteTag" : "nike-air-max-97/bw-skair-x-skepta",
+      "stores" : {
+        "-LCct2Z_9YXbQdK3Pa-F" : {
+          "affiliateLink" : "http://asphaltgold.dk",
+          "date" : "12:00",
+          "storeId" : "-LBeFDtGseHI3GqHAk_L"
+        },
+        "-LFXxd55AJvmxYGpVr4F" : {
+          "affiliateLink" : "www.google.dk",
+          "storeId" : "-LBeJDRjAaKk0JWFT0Z5"
+        }
+      },
+      "title" : "Nike air max 97/bw skair x skepta"
+    },
+    "-LCcF-BR5bu2CwkLMScv" : {
+      "allChecked" : true,
+      "brand" : "Nike ",
+      "clothingChecked" : false,
+      "date" : "2018-05-17",
+      "description" : "\"Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc id nunc purus. Duis porta arcu at augue vulputate sollicitudin. Morbi interdum faucibus est eget tincidunt. Suspendisse potenti. Etiam quis felis diam. Cras at ligula eget nisl commodo convallis. Morbi placerat elit elit, sagittis placerat risus condimentum quis. Aenean sit amet diam elit.  Sed bibendum justo arcu, a condimentum nibh ultricies sit amet. Pellentesque suscipit libero sed massa condimentum auctor. Sed sollicitudin eleifend lectus non condimentum. Nunc eget quam pulvinar, bibendum nisi id, porta lorem. In in urna dolor. Proin vulputate posuere justo, sed vulputate risus aliquam et.",
+      "imgUrl" : "https://stockx.imgix.net/Nike-Air-Max-97-Metallic-Gold-2018.png?fit=fill&bg=FFFFFF&w=1400&h=1000&auto=format,compress&trim=color&q=90",
+      "price" : "180",
+      "productCode" : "885691-700",
+      "resellEstimate" : "180",
+      "salesChecked" : false,
+      "siteTag" : "nike-air-max-97-og-\"metallic-gold\"",
+      "sneakerChecked" : true,
+      "stores" : {
+        "-LCciO1wKMxd4sDhCH5M" : {
+          "affiliateLink" : "https://www.suppastore.com/latest/?___SID=U",
+          "date" : "13:45",
+          "storeId" : "-LBeJfnhLiumtYQkA2fL"
+        },
+        "-LCciQCuO8vJI3fOM3J2" : {
+          "affiliateLink" : "",
+          "date" : "24:00",
+          "storeId" : "-LBeFDtGseHI3GqHAk_L"
+        },
+        "-LCciuuBDk66XA1ygt5p" : {
+          "affiliateLink" : "https://rezetstore.dk/air-max-97-gold",
+          "date" : "04:30",
+          "storeId" : "-LBeBcOKQFB_MBb9C0b2"
+        },
+        "-LCcixsrUCohx-dCh8zC" : {
+          "affiliateLink" : "https://store.nike.com/dk/da_dk/pd/air-max-97-og-qs-sko/pid-11472288/pgid-12481864?cp=euns_kw_pla%21dk%21goo%21pla%21c%21%21%21213927638381&gclid=Cj0KCQjwre_XBRDVARIsAPf7zZgSLgOEaZ-9cBdxEGcvSogz8S9vhGf4octFkKaHbb7ImUc7qe63mkEaAivUEALw_wcB&gclsrc=aw.ds",
+          "date" : "06:30",
+          "storeId" : "-LBeIOl3pEu5bOWRJWjl"
+        }
+      },
+      "title" : "Nike air max 97 OG \"metallic gold\"",
+      "url" : ""
+    },
+    "-LCcFfdxv_cOXChxaCRw" : {
+      "allChecked" : true,
+      "brand" : "Nike",
+      "clothingChecked" : false,
+      "date" : "2018-05-17",
+      "description" : "\"Etiam ultricies, turpis sed sollicitudin hendrerit, sem lorem lacinia sapien, et viverra tortor mauris non nisl. Integer ultricies ultricies lacus, vitae pellentesque sem blandit sed. Praesent facilisis sit amet ipsum quis dignissim. Aliquam erat volutpat. Nam vel lectus in tellus scelerisque tempor at ac dui. Sed ac varius velit, eget imperdiet justo. In nec velit pharetra, consectetur tortor sed, consequat lectus. Mauris tincidunt mi et condimentum auctor. Nunc quis metus mattis elit consequat consectetur at sed quam.  Ut dictum nulla nec eleifend rhoncus. In massa mauris, tempor in finibus eu, volutpat eget sapien. Integer diam ipsum, sollicitudin et neque non.",
+      "imgUrl" : "https://stockx-360.imgix.net/Nike-Air-VaporMax-97-Metallic-Gold/Images/Nike-Air-VaporMax-97-Metallic-Gold/Lv2/img36.jpg?auto=format,compress&w=1117&q=90",
+      "price" : "225",
+      "productCode" : "AJ7291-700",
+      "resellEstimate" : "225 ",
+      "salesChecked" : false,
+      "siteTag" : "nike-vapormax-97-metallic-gold",
+      "sneakerChecked" : true,
+      "title" : "Nike vapormax 97 \"metallic gold\"",
+      "url" : ""
+    },
+    "-LCeLtgSBvBuW6_fUGjD" : {
+      "allChecked" : true,
+      "brand" : "Adidas",
+      "clothingChecked" : false,
+      "date" : "2018-05-19",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://stockx.imgix.net/Adidas-AW-Run-Alexander-Wang-Core-Black.png?fit=fill&bg=FFFFFF&w=1400&h=1000&auto=format,compress&trim=color&q=90",
+      "price" : "180",
+      "productCode" : "AQ1230",
+      "resellEstimate" : "200",
+      "salesChecked" : false,
+      "siteTag" : "adidas-aw-run-alexander-wang-core-black",
+      "sneakerChecked" : true,
+      "title" : "Adidas aw run alexander wang \"core black\""
+    },
+    "-LCeMiSdtJF5hz47gxrK" : {
+      "allChecked" : true,
+      "brand" : "Adidas ",
+      "clothingChecked" : false,
+      "date" : "2018-06-09",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://stockx-360.imgix.net/Adidas-Yeezy-500-Desert-Rat-Moon-Yellow/Images/Adidas-Yeezy-500-Desert-Rat-Moon-Yellow/Lv2/img36.jpg?auto=format,compress&w=1117&q=90",
+      "price" : "220",
+      "productCode" : "DB2966",
+      "resellEstimate" : "260",
+      "salesChecked" : false,
+      "siteTag" : "adidas-yeezy-500-desert-rat-\"super-moon-yellow\"",
+      "sneakerChecked" : true,
+      "stores" : {
+        "-LCeMp7NSGrgJXRl5RnK" : {
+          "affiliateLink" : "https://www.adidas.dk/yeezy",
+          "date" : "10:00",
+          "storeId" : "-LBeEkTVRUPNDrzWjC0Q"
+        }
+      },
+      "title" : "Adidas yeezy 500 desert rat \"super moon yellow\""
+    },
+    "-LCeNazDVkHhlAuagNTz" : {
+      "allChecked" : true,
+      "brand" : "Jordan",
+      "clothingChecked" : false,
+      "date" : "2018-05-19",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://stockx.imgix.net/Air-Jordan-1-Retro-High-Homage-To-Home-Product.jpg?fit=fill&bg=FFFFFF&w=1400&h=1000&auto=format,compress&trim=color&q=90",
+      "price" : "170",
+      "productCode" : "861428-061",
+      "resellEstimate" : "400",
+      "salesChecked" : false,
+      "siteTag" : "jordan-1-retro-high-homage-to-home",
+      "sneakerChecked" : false,
+      "title" : "Jordan 1 Retro High \"Homage To Home\""
+    },
+    "-LChiEvUwqYHh2t51nSN" : {
+      "allChecked" : true,
+      "brand" : "Nike ",
+      "clothingChecked" : false,
+      "date" : "2018-05-05",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://stockx-360.imgix.net/Air-Jordan-1-Retro-High-Satin-Shattered-Backboard-W/Images/Air-Jordan-1-Retro-High-Satin-Shattered-Backboard-W/Lv2/img01.jpg?auto=format,compress&w=1117&q=90",
+      "price" : "220",
+      "productCode" : "242423rf",
+      "resellEstimate" : "230",
+      "salesChecked" : false,
+      "siteTag" : "jordan-1-retro-high-satin-\"shattered-backboard\"",
+      "sneakerChecked" : false,
+      "stores" : {
+        "-LClqFWq3mN1O7zsgMO3" : {
+          "affiliateLink" : "https://www.nike.com/dk/da_dk/",
+          "date" : "09:00",
+          "storeId" : "-LBeIOl3pEu5bOWRJWjl"
+        }
+      },
+      "title" : "Jordan 1 Retro High Satin \"Shattered Backboard\""
+    },
+    "-LCm8NVcUyY04GT-PEd8" : {
+      "allChecked" : true,
+      "brand" : "Adidas",
+      "clothingChecked" : false,
+      "date" : "2018-05-03",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://stockx-360.imgix.net/Adidas-Yeezy-Powerphase-Calabasas-Core-Black/Images/Adidas-Yeezy-Powerphase-Calabasas-Core-Black/Lv2/img01.jpg?auto=format,compress&w=1117&q=90",
+      "price" : "100",
+      "productCode" : "992864",
+      "resellEstimate" : "140",
+      "salesChecked" : false,
+      "siteTag" : "adidas-yeezy-powerphase-calabasas-core-black",
+      "sneakerChecked" : false,
+      "title" : "adidas Yeezy Powerphase Calabasas \"Core Black\""
+    },
+    "-LCm9xf7_zl9SwEQidfC" : {
+      "allChecked" : true,
+      "brand" : "Adidas",
+      "clothingChecked" : false,
+      "date" : "2018-08-15",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://stockx-360.imgix.net/Adidas-Ultra-Boost-Mid-Prototype/Images/Adidas-Ultra-Boost-Mid-Prototype/Lv2/img01.jpg?auto=format,compress&w=1117&q=90",
+      "price" : "180",
+      "productCode" : "340943",
+      "resellEstimate" : "300",
+      "salesChecked" : false,
+      "siteTag" : "adidas-ultra-boost-mid-prototype",
+      "sneakerChecked" : false,
+      "title" : "adidas Ultra Boost Mid Prototype"
+    },
+    "-LFO51EbYFpRA6P16MMT" : {
+      "allChecked" : true,
+      "brand" : "Nike",
+      "clothingChecked" : false,
+      "date" : "2018-06-21",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://stockx-360.imgix.net/Nike-Air-Presto-Off-White-White-2018/Images/Nike-Air-Presto-Off-White-White-2018/Lv2/img01.jpg?auto=format,compress&w=1117&q=90",
+      "price" : "150",
+      "productCode" : "AA3830-100 COLORWAY WHITE/BLACK-CONE RETAIL PRICE $160 RELEASE",
+      "resellEstimate" : "600",
+      "salesChecked" : false,
+      "siteTag" : "nike-air-presto-x-off-white",
+      "sneakerChecked" : true,
+      "stores" : {
+        "-LFO58RpSm3sqae-HV79" : {
+          "affiliateLink" : "https://www.nike.com/dk/da_dk/",
+          "date" : "10:00",
+          "storeId" : "-LBeIOl3pEu5bOWRJWjl"
+        },
+        "-LFO5LjP1pRsyh7cODib" : {
+          "affiliateLink" : "https://www.nakedcph.com",
+          "date" : "11:00",
+          "storeId" : "-LBeHpMuSx9QNoNX3Ivj"
+        }
+      },
+      "title" : "Nike Air Presto x Off-white"
+    },
+    "-LFO5jfykooQipUbtexW" : {
+      "allChecked" : true,
+      "brand" : "Nike",
+      "clothingChecked" : false,
+      "date" : "2018-08-03",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://stockx.imgix.net/Nike-Air-Presto-Off-White-Black-2018.jpeg?fit=fill&bg=FFFFFF&w=1400&h=1000&auto=format,compress&trim=color&q=90",
+      "price" : "150",
+      "productCode" : "AJ6599-600",
+      "resellEstimate" : "600",
+      "salesChecked" : false,
+      "siteTag" : "nike-air-presto-x-off-white-(black)",
+      "sneakerChecked" : true,
+      "title" : "Nike Air Presto x Off-white (black)"
+    },
+    "-LFO62-rzKgBikXAygPj" : {
+      "allChecked" : true,
+      "brand" : "Adidas",
+      "clothingChecked" : false,
+      "date" : "2018-07-28",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://stockx.imgix.net/Adidas-Harden-Vol-2-MVP-2018.png?fit=fill&bg=FFFFFF&w=1400&h=1000&auto=format,compress&trim=color&q=90",
+      "price" : "180",
+      "productCode" : "992864",
+      "resellEstimate" : "180",
+      "salesChecked" : false,
+      "siteTag" : "adidas-harden-vol.-2-mvp-(2018)",
+      "sneakerChecked" : true,
+      "title" : "adidas Harden Vol. 2 MVP (2018)"
+    },
+    "-LFO6HK2Fl2Mbc1ZBDRl" : {
+      "allChecked" : true,
+      "brand" : "Adidas",
+      "clothingChecked" : false,
+      "date" : "2018-07-20",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://stockx.imgix.net/Adidas-4D-Sneakersnstuff.png?fit=fill&bg=FFFFFF&w=1400&h=1000&auto=format,compress&trim=color&q=90",
+      "price" : "360",
+      "productCode" : "992864",
+      "resellEstimate" : "550",
+      "salesChecked" : false,
+      "siteTag" : "adidas-4d-x-sneakersnstuff",
+      "sneakerChecked" : true,
+      "title" : "Adidas 4d x sneakersnstuff"
+    },
+    "-LG1Yazm9QTETTPf-oa2" : {
+      "allChecked" : true,
+      "brand" : "Nike",
+      "clothingChecked" : false,
+      "date" : "2018-06-28",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imgUrl" : "https://stockx.imgix.net/Nike-Air-Force-1-Low-Just-Do-It-Pack-White.png?fit=fill&bg=FFFFFF&w=1400&h=1000&auto=format,compress&trim=color&q=90",
+      "price" : "130",
+      "productCode" : "AO6296-100",
+      "resellEstimate" : "150",
+      "salesChecked" : false,
+      "siteTag" : "nike-air-force-1-'07-premium-\"just-do-it---white\"",
+      "sneakerChecked" : false,
+      "stores" : {
+        "-LG1ZWlJdTaNy06cmHCI" : {
+          "affiliateLink" : "http://bit.ly/2KsOufY",
+          "date" : "08:00",
+          "storeId" : "-LBeEDiqh6RYm7lCpZAl"
+        }
+      },
+      "title" : "nike air force 1 '07 premium \"just do it - white\""
+    }
+  },
+  "steals" : {
+    "-LD61vsQdInMcf9jmtUk" : {
+      "brand" : "Naked",
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "endDate" : "2018-06-05",
+      "imgUrl" : "https://images.ctfassets.net/d3wkgonecokm/5Jar9zVmecIMUOUQ2U4QQC/e612737a3b8c5be225f94d489afe030d/NAKED_FILA_RAY_1224.JPG?fm=jpg&q=60&w=1920",
+      "link" : "https://facebook.dk",
+      "picks" : {
+        "-LD6TmDbX-9eiQMTUjiz" : {
+          "affiliateLink" : "https://www.nakedcph.com/stussy-wyatt-overall-215078-1002/p/6178",
+          "imgUrl" : "https://www.nakedcph.com/images/15358/medium_2x.jpg",
+          "newPrice" : "105",
+          "oldPrice" : "175"
+        }
+      },
+      "priceOff" : "20 - 45",
+      "siteTag" : "naked-summer-sale-2018",
+      "startDate" : "2018-05-30",
+      "title" : "Naked Summer Sale 2018"
+    }
+  },
+  "stores" : {
+    "-LBeBcOKQFB_MBb9C0b2" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2Frezetstore.png?alt=media&token=65523792-9b0b-464f-bb85-03de402d669a",
+      "name" : "Rezet Store",
+      "shipping" : "Denmark",
+      "website" : "https://rezetstore.dk"
+    },
+    "-LBeD-W-hzYrEHH8dsJ-" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2F18%20montrose.jpg?alt=media&token=17d95464-39bb-4805-b0c8-2060c14953b5",
+      "name" : "18montrose",
+      "shipping" : "United Kingdom",
+      "website" : "http://redirect.viglink.com?key=f9b033f6da435d6a53dc190d50aa77a6&u=http%3A%2F%2F18montrose.com"
+    },
+    "-LBeEDiqh6RYm7lCpZAl" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2F43einhalb.jpg?alt=media&token=0ebf1b3c-7970-4e8e-b8b7-59521e005399",
+      "name" : "43einhalb",
+      "shipping" : "Germany",
+      "website" : "http://redirect.viglink.com?key=f9b033f6da435d6a53dc190d50aa77a6&u=http%3A%2F%2F43einhalb.com"
+    },
+    "-LBeEQGyawVGa2jE2gYT" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2F5poitz.jpg?alt=media&token=97c0ec5f-0f13-4cb1-a97a-e5c66d00eb43",
+      "name" : "5 Pointz",
+      "shipping" : "United Kingdom",
+      "website" : "http://redirect.viglink.com?key=f9b033f6da435d6a53dc190d50aa77a6&u=http%3A%2F%2F5pointz.co.uk"
+    },
+    "-LBeEkTVRUPNDrzWjC0Q" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2Fadidas.jpg?alt=media&token=bc24ca4c-1b0f-42e7-8dd6-fabb9ce5e8b5",
+      "name" : "Adidas",
+      "shipping" : "Europe",
+      "website" : "https://www.adidas.dk"
+    },
+    "-LBeExCnRItyPRDmffQn" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FAfew%20store.jpg?alt=media&token=9009ef18-bf2b-49c6-85b6-fc576ef66f1a",
+      "name" : "Afew Store",
+      "shipping" : "Germany",
+      "website" : "http://redirect.viglink.com?key=f9b033f6da435d6a53dc190d50aa77a6&u=http%3A%2F%2Fafew-store.com"
+    },
+    "-LBeFDtGseHI3GqHAk_L" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FAsphaltgold.png?alt=media&token=ae9171c3-8a0b-431b-a486-50e7f281394f",
+      "name" : "Asphaltgold",
+      "shipping" : "Germany",
+      "website" : "https://asphaltgold.de/en/"
+    },
+    "-LBeFT0lIxTCqjqWkST6" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FBSTN.png?alt=media&token=7e1a1c9b-6447-40ea-89b3-4cd717256b86",
+      "name" : "BSTN",
+      "shipping" : "Germany",
+      "website" : "https://www.bstn.com"
+    },
+    "-LBeForNItdRPBYYnMTQ" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2Fcaliroots.png?alt=media&token=616dbaec-a2aa-47a2-bf6f-36b910b5de92",
+      "name" : "Caliroots",
+      "shipping" : "Sweden",
+      "website" : "https://caliroots.dk"
+    },
+    "-LBeGFB_eYH2672_DmyN" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FEND..jpg?alt=media&token=8a23fb88-791f-4900-a65b-e3024338f05b",
+      "name" : "END.",
+      "shipping" : "United Kingdom",
+      "website" : "https://www.endclothing.com/dk/"
+    },
+    "-LBeH2OSo0S1K1pL_5TS" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FFootpatrol.png?alt=media&token=201c93bb-cc99-4853-b9d8-36a8b276a06f",
+      "name" : "Footpatrol",
+      "shipping" : "United Kingdom",
+      "website" : "https://www.footpatrol.com/shop"
+    },
+    "-LBeHFfS4ApXNkOdgCqj" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FInflammable.jpg?alt=media&token=7fc3833c-db44-411e-8435-080542404549",
+      "name" : "Inflammable",
+      "shipping" : "Germany",
+      "website" : "https://www.inflammable.com"
+    },
+    "-LBeHYY2tWLsk692HOqN" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FJDsports.jpg?alt=media&token=94ab996c-6cbe-4c03-9c86-c9da8d942d4d",
+      "name" : "JD Sports",
+      "shipping" : "Europe",
+      "website" : "https://www.jdsports.dk"
+    },
+    "-LBeHg40-MZIv8AT5rme" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FKeller%20sports.jpg?alt=media&token=aeffadb2-918c-4277-b1a2-ab34c4f5fc0b",
+      "name" : "Keller Sports",
+      "shipping" : "United Kingdom",
+      "website" : "https://www.keller-sports.dk"
+    },
+    "-LBeHpMuSx9QNoNX3Ivj" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FNaked.jpg?alt=media&token=08bf1e93-96d6-419f-b45d-1da9449ff836",
+      "name" : "Naked",
+      "shipping" : "Denmark",
+      "website" : "https://www.nakedcph.com"
+    },
+    "-LBeIOl3pEu5bOWRJWjl" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2Fnike.jpg?alt=media&token=0d40fc5f-eb3a-436d-a4ab-4acf07324de9",
+      "name" : "Nike",
+      "shipping" : "Europe",
+      "website" : "http://redirect.viglink.com?key=f9b033f6da435d6a53dc190d50aa77a6&u=http%3A%2F%2Fnike.com"
+    },
+    "-LBeIaUzH5Ek3cD0_Sj3" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2Fnorse-store.png?alt=media&token=75e7a82d-a5f6-47d4-89eb-5760e0c760cf",
+      "name" : "Norse Store",
+      "shipping" : "Denmark",
+      "website" : "https://www.norsestore.com"
+    },
+    "-LBeIt_tz5cCBr9iQB89" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FSize%3F.jpg?alt=media&token=517862d7-656f-4ceb-930e-2370239f82b6",
+      "name" : "Size?",
+      "shipping" : "United Kingdom",
+      "website" : "https://www.size.co.uk"
+    },
+    "-LBeJ1vZBaduMbNM3jjW" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FSneakersnstuff.jpg?alt=media&token=af915b7f-cb51-4ffb-a017-4015ab0d3154",
+      "name" : "Sneakersnstuff",
+      "shipping" : "Europe",
+      "website" : "https://www.sneakersnstuff.com"
+    },
+    "-LBeJDRjAaKk0JWFT0Z5" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FStoy.png?alt=media&token=74cefe73-8108-4562-aab0-ce5a8053f9c3",
+      "name" : "Støy Munkholm",
+      "shipping" : "Denmark",
+      "website" : "https://stoy.com/en/page/men"
+    },
+    "-LBeJfnhLiumtYQkA2fL" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FSuppa.jpg?alt=media&token=341d028e-1799-4dbe-9edb-b730d5d1322a",
+      "name" : "Suppa Store",
+      "shipping" : "Germany",
+      "website" : "https://www.suppastore.com"
+    },
+    "-LBeJzMyoVeY-FkX17Ez" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FTGWO.jpg?alt=media&token=ef32fdac-8e15-44f3-acaa-8b2aad8410c3",
+      "name" : "The Good Will Out",
+      "shipping" : "Germany",
+      "website" : "https://www.thegoodwillout.com"
+    },
+    "-LBeKJcO8PFA194wt4b2" : {
+      "imgUrl" : "https://firebasestorage.googleapis.com/v0/b/releaseplugdb.appspot.com/o/stores%2FUrban%20industry.gif?alt=media&token=41646e73-942f-42cc-af88-5af1e0bf10a6",
+      "name" : "Urban Industry",
+      "shipping" : "United Kingdom",
+      "website" : "https://www.urbanindustry.co.uk"
+    }
+  }
+}
